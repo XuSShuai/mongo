@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mango</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="welcome">
+        <item >亲爱的，好久不见</item>
+        <item >主人，你终于想起我了</item>
+        <item >主人主人，有什么可以帮你的吗</item>
+        <item >参见吾皇，万岁~万岁~万万岁</item>
+        <item >你这么帅，你先说</item>
+        <item >天青色等烟雨，而我在等你</item>
+        <item >不放弃，就一定会看到希望</item>
+    </string-array>
+</resources>
